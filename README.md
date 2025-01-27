@@ -21,6 +21,7 @@ Python 3.7 or higher
 pip (Python package manager)
 
 Usage
+
 **Run the application:**
 python app.py
 
